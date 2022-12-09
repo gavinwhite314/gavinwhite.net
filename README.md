@@ -4,4 +4,4 @@
 
 <p style="text-align:center">&nbsp;</p>
 
-<p><span style="font-size:16px">This site is my personal portfolio. I created and designed the website myself with inspiration from&nbsp;Brittany Chiang (https://github.com/bchiang7). You can see the site at <a href="https://www.gavinwhite.net" target="_blank">https://www.gavinwhite.net</a></span></p>
+<p><span style="font-size:16px">This site is my personal portfolio. I created and designed the website myself with inspiration from&nbsp;<a href="https://github.com/bchiang7" target="_blank">Brittany Chiang</a>. You can see the site at <a href="https://www.gavinwhite.net" target="_blank">https://www.gavinwhite.net</a></span></p>

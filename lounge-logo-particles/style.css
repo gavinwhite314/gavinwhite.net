@@ -1,0 +1,23 @@
+html,
+body {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+html .slides,
+body .slides,
+html > .dg,
+body > .dg {
+  display: none;
+}
+@media (min-width: 1000px) {
+  body {
+    background-repeat: no-repeat;
+  }
+  body > .dg {
+    display: block;
+  }
+}

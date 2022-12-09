@@ -731,8 +731,8 @@
 .u-section-4 .u-social-icons-1 {
   height: 34px;
   min-height: 16px;
-  width: 122px;
-  min-width: 68px;
+  width: 166px;
+  min-width: 94px;
   margin: 16px auto 50px 106px;
 }
 
@@ -748,6 +748,11 @@
 
 .u-section-4 .u-icon-3 {
   height: 100%;
+}
+
+.u-section-4 .u-icon-4 {
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
 }
 
 @media (max-width: 1199px) {

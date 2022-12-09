@@ -1,6 +1,6 @@
-<p style="text-align:center"><a href="https://www.gavinwhite.net/"><img alt="GW Logo" src="https://www.gavinwhite.net/images/gw-logo.png" style="border-style:solid; border-width:0px; height:60px; width:50px" /></a>&nbsp;</p>
+<center><p><a href="https://www.gavinwhite.net/"><img alt="GW Logo" src="https://www.gavinwhite.net/images/gw-logo.png" style="border-style:solid; border-width:0px; height:60px; width:50px" /></a>&nbsp;</p></center>
 
-<p style="text-align:center"><span style="font-size:36px">Gavin White Portfolio Site</span></p>
+<center><p style="text-align:center"><span style="font-size:36px">Gavin White Portfolio Site</span></p></center>
 
 <p style="text-align:center">&nbsp;</p>
 

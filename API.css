@@ -86,140 +86,140 @@
 }
 
 .u-section-2 .u-container-layout-1 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-2 .u-text-3 {
   font-weight: 700;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  margin: 34px auto 0;
+  margin: 34px 0 0;
 }
 
 .u-section-2 .u-text-4 {
   transition-duration: 0.5s;
-  margin: 16px auto 0;
+  margin: 16px 0 0;
 }
 
 .u-section-2 .u-btn-1 {
   transition-duration: 0.5s;
   text-transform: uppercase;
-  margin: 31px auto 0;
+  margin: 30px auto 0;
   padding: 10px 53px 10px 51px;
 }
 
 .u-section-2 .u-container-layout-2 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-2 .u-text-5 {
   font-weight: 700;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  margin: 34px auto 0;
+  margin: 34px 0 0;
 }
 
 .u-section-2 .u-text-6 {
   transition-duration: 0.5s;
-  margin: 16px auto 0;
+  margin: 16px 0 0;
 }
 
 .u-section-2 .u-btn-2 {
   transition-duration: 0.5s;
   text-transform: uppercase;
-  margin: 31px auto 0;
+  margin: 30px auto 0;
   padding: 10px 53px 10px 51px;
 }
 
 .u-section-2 .u-container-layout-3 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-2 .u-text-7 {
   font-weight: 700;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  margin: 34px auto 0;
+  margin: 34px 0 0;
 }
 
 .u-section-2 .u-text-8 {
   transition-duration: 0.5s;
-  margin: 16px auto 0;
+  margin: 16px 0 0;
 }
 
 .u-section-2 .u-btn-3 {
   transition-duration: 0.5s;
   text-transform: uppercase;
-  margin: 31px auto 0;
+  margin: 30px auto 0;
   padding: 10px 53px 10px 51px;
 }
 
 .u-section-2 .u-container-layout-4 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-2 .u-text-9 {
   font-weight: 700;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  margin: 34px auto 0;
+  margin: 34px 0 0;
 }
 
 .u-section-2 .u-text-10 {
   transition-duration: 0.5s;
-  margin: 16px auto 0;
+  margin: 16px 0 0;
 }
 
 .u-section-2 .u-btn-4 {
   transition-duration: 0.5s;
   text-transform: uppercase;
-  margin: 31px auto 0;
+  margin: 30px auto 0;
   padding: 10px 53px 10px 51px;
 }
 
 .u-section-2 .u-container-layout-5 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-2 .u-text-11 {
   font-weight: 700;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  margin: 34px auto 0;
+  margin: 34px 0 0;
 }
 
 .u-section-2 .u-text-12 {
   transition-duration: 0.5s;
-  margin: 16px auto 0;
+  margin: 16px 0 0;
 }
 
 .u-section-2 .u-btn-5 {
   transition-duration: 0.5s;
   text-transform: uppercase;
-  margin: 31px auto 0;
+  margin: 30px auto 0;
   padding: 10px 53px 10px 51px;
 }
 
 .u-section-2 .u-container-layout-6 {
-  padding: 10px;
+  padding: 10px 9px;
 }
 
 .u-section-2 .u-text-13 {
   font-weight: 700;
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  margin: 34px auto 0;
+  margin: 34px 0 0;
 }
 
 .u-section-2 .u-text-14 {
   transition-duration: 0.5s;
-  margin: 16px auto 0;
+  margin: 16px 0 0;
 }
 
 .u-section-2 .u-btn-6 {
   transition-duration: 0.5s;
   text-transform: uppercase;
-  margin: 31px auto 0;
+  margin: 30px auto 0;
   padding: 10px 53px 10px 51px;
 }
 
@@ -302,10 +302,6 @@
     margin-top: 21px;
   }
 
-  .u-section-2 .u-btn-1 {
-    margin-top: 30px;
-  }
-
   .u-section-2 .u-text-5 {
     width: auto;
     margin-top: 31px;
@@ -314,10 +310,6 @@
   .u-section-2 .u-text-6 {
     width: auto;
     margin-top: 21px;
-  }
-
-  .u-section-2 .u-btn-2 {
-    margin-top: 30px;
   }
 
   .u-section-2 .u-text-7 {
@@ -330,10 +322,6 @@
     margin-top: 21px;
   }
 
-  .u-section-2 .u-btn-3 {
-    margin-top: 30px;
-  }
-
   .u-section-2 .u-text-9 {
     width: auto;
     margin-top: 31px;
@@ -342,10 +330,6 @@
   .u-section-2 .u-text-10 {
     width: auto;
     margin-top: 21px;
-  }
-
-  .u-section-2 .u-btn-4 {
-    margin-top: 30px;
   }
 
   .u-section-2 .u-text-11 {
@@ -358,10 +342,6 @@
     margin-top: 21px;
   }
 
-  .u-section-2 .u-btn-5 {
-    margin-top: 30px;
-  }
-
   .u-section-2 .u-text-13 {
     width: auto;
     margin-top: 31px;
@@ -370,10 +350,6 @@
   .u-section-2 .u-text-14 {
     width: auto;
     margin-top: 21px;
-  }
-
-  .u-section-2 .u-btn-6 {
-    margin-top: 30px;
   }
 }
 
